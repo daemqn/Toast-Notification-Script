@@ -108,4 +108,29 @@
 		<Text Name="ComputerUptimeText">Datorns upptid:</Text>
 		<Text Name="ComputerUptimeDaysText">dagar</Text>
     </sv-SE>
+<fr-FR>
+    	<Text Name="PendingRebootUptimeText">Votre ordinateur a besoin de redémarrer car il a dépassé le temps maximum d'utilisation autorisé.</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
+        <Text Name="PendingRebootCheckText">Raison : Redémarrage en attente trouvé par le registre ou requête WMI.</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
+        <Text Name="ADPasswordExpirationText">Votre mot de passe va expirer le : </Text> <!-- Text used if the ADPasswordExpirationText Option is enabled -->
+        <Text Name="CustomAudioTextToSpeech">Dites donc ... Votre ordinateur a besoin d'être redémarré. Merci de le faire dès que possible. :) </Text> <!-- Text to speech used if the CustomAudioTextToSpeech Option is enabled -->
+        <Text Name="ActionButton1">Redémarez maintenant</Text>  <!-- Text on the ActionButton if enabled -->
+		<Text Name="ActionButton2">Plus d'informations</Text>  <!-- Text on the ActionButton if enabled -->
+        <Text Name="DismissButton">Refuser</Text> <!-- Text on the DismissButton if enabled -->
+        <Text Name="SnoozeButton">Repousser</Text> <!-- Text on the SnoozeButton if enabled -->
+        <Text Name="AttributionText">www.imab.dk</Text>
+        <Text Name="HeaderText">Le support vous rappelle que ...</Text>
+        <Text Name="TitleText">Votre ordinateur a besoin d'être redémarré ! </Text>
+        <Text Name="BodyText1">Pour des raisons de sécurité et de stabilité, nous vous demandons de bien vouloir redémarrer votre PC dès que possible. :) </Text>
+        <Text Name="BodyText2">Redémarrer votre PC régulièrement assure un Windows plus sécurisé et plus stable. Merci par avance.</Text>
+        <Text Name="SnoozeText">Appuyez sur Snooze pour être rappelé de nouveau : </Text>
+        <Text Name="DeadlineText">Votre date limite est : </Text>
+        <Text Name="GreetMorningText">Bonjour</Text>
+        <Text Name="GreetAfternoonText">Bon après-midi</Text>
+        <Text Name="GreetEveningText">Bonsoir</Text>
+        <Text Name="MinutesText">Minutes</Text>
+        <Text Name="HourText">Heure</Text>
+        <Text Name="HoursText">Heures</Text>
+        <Text Name="ComputerUptimeText">Uptime de l'ordinateur : </Text>
+        <Text Name="ComputerUptimeDaysText">jours</Text>
+</fr-FR>
 </Configuration>
